@@ -1,0 +1,12 @@
+io\microprofile\showcase\schedule\model\adapters\LocalDateAdapter.class
+io\microprofile\showcase\schedule\model\adapters\DurationAdapter.class
+io\microprofile\showcase\schedule\resources\ScheduleResource.class
+io\microprofile\showcase\schedule\health\SuccessfulHealthCheck.class
+io\microprofile\showcase\schedule\model\adapters\LocalTimeAdapter.class
+io\microprofile\showcase\schedule\health\FailedHealthCheck.class
+io\microprofile\showcase\schedule\CORSFilter.class
+io\microprofile\showcase\schedule\resources\ScheduleResource$1.class
+io\microprofile\showcase\schedule\rest\Application.class
+io\microprofile\showcase\schedule\persistence\ScheduleDAO.class
+io\microprofile\showcase\schedule\model\Schedule.class
+io\microprofile\showcase\schedule\health\HealthCheckBean.class
